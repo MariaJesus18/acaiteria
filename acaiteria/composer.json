@@ -1,0 +1,16 @@
+{
+    "name": "lem/acai",
+    "description": "projeto de uma acaiteria",
+    "autoload": {
+        "psr-4": {
+            "Lem\\Acai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maria de Jesus dos Santos Medeiros",
+            "email": "jesus.maria@escolar.ifrn.edu.br"
+        }
+    ],
+    "require": {}
+}
